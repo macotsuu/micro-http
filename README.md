@@ -5,9 +5,7 @@ A simple HTTP framework built on top of HTTP/2
 if this is a brand new project, make sure to create a package.json first with the npm init command.
 
 Installation is done using the npm install command:
-```
-$ npm install macotsuu/micro-http
-```
+```$ npm install macotsuu/micro-http```
 
 ### Features
 * Support HTTP/2
